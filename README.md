@@ -1,6 +1,15 @@
 # Project-Star
 Project Star Implemented IT Resources To Track United Airlines Flight Schedules
 
+ Each Photo represent a diffrent draft during the creative process, the main goal was organization and simplicity
+* The Colummns Break apart In order from earlier inbound & outbound flights to which flights left early, o time, or late.
+*  Majority of flights maintain the same schedule throughout the year so the intention was to make the chart customizable for future edits
+*  Each City has it's own code
+  ORD = Orlando
+  EWR = Newark
+  IAH = Houston
+
+
 
 
 ******Cybersecurity Story Time******
