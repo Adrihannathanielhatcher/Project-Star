@@ -12,9 +12,11 @@ With creativity, determination, and some basic tools like command-line utilities
 
 
 
+![image](https://github.com/user-attachments/assets/6e7e0417-86f5-49b9-b548-81dff5014070)
 
 
 
+![image](https://github.com/user-attachments/assets/68e788dc-9d36-4ef2-b46f-81b97cb4960a)
 
 
 ![image](https://github.com/user-attachments/assets/c33e4fdb-bf8a-493b-bb75-b3b5671eedc5)
